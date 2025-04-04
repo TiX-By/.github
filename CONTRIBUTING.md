@@ -61,7 +61,7 @@ Thank you for contributing to our project! We appreciate your help in maintainin
   - Always open a pull request from your feature or fix branch.
   - Include a PR template that includes the following sections:
     - **Summary:** A brief description of the changes introduced by this pull request.
-    - **Related Task/Issue:** A link or reference to the associated ClickUp task or GitHub issue (e.g., CP-1234 or [ClickUp Task](https://app.clickup.com/t/your-task-id)).
+    - **Related Task/Issue:** A link or reference to the associated ClickUp task or GitHub issue (e.g., CU-1234 or [ClickUp Task](https://app.clickup.com/t/your-task-id)).
     - **Changes Made:** A concise list of the primary modifications or features implemented.
     - **Testing Instructions:** Steps to verify the changes, including any necessary test cases.
     - **Impact:** Details on potential effects on interconnected applications or components.
