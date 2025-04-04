@@ -88,7 +88,7 @@ Thank you for contributing to our project! We appreciate your help in maintainin
 
 ## Code Standards
 
-- Ensure your text editor or IDE enforces linting and formating in your code.
+- Ensure your text editor or IDE enforces linting and formatting in your code.
 - Write clean, modular, and well-documented code.
 - Ensure all new features or fixes include the necessary tests and documentation.
 
