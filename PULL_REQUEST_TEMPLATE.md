@@ -2,7 +2,7 @@
 _Provide a brief description of the changes introduced by this pull request._
 
 ## Related Task/Issue
-_Link to the ClickUp task or GitHub issue (e.g., CP-1234 or [ClickUp Task](https://app.clickup.com/t/your-task-id))._
+_Link to the ClickUp task or GitHub issue (e.g., CU-1234 or [ClickUp Task](https://app.clickup.com/t/your-task-id))._
 
 ## Changes Made
 - List the main changes or features added.
